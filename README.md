@@ -11,4 +11,4 @@ This repo is incomplete, it would take some time to me to finish it, so if you w
 ## _Thanks_
 I want to make an acknowledgment to the names below:
 - Javier Balán, fsc. For his big support and sponsorship. His LinkedIn profile can be found [here](https://mx.linkedin.com/in/javierbalan).
-- Roberto Robles Álvarez. For helping me with some doubts about the stepper.
+- Roberto Robles Álvarez. For helping me with some doubts about the stepper. You can contact him [here](mailto:oroal314@gmail.com).
